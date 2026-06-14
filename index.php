@@ -25,6 +25,14 @@ en une seule page fluide découpée en 5 sections clés :
 <body>
     <header>
         <!-- AHmas & Fidelia -->
+         <img src="logo.jpg" alt="">
+         <ul>
+            <li>Acceuil</li>
+            <li>Activités</li>
+            <li>A propos</li>
+            <li>Nos contactez</li>
+         </ul>
+         <button>se connecter</button>
     </header>
     <main>
         <!-- Viviène, Mourchid, Junior -->
