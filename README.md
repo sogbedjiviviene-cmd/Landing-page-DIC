@@ -41,11 +41,4 @@ Le développement est divisé en trois grands groupes de travail :
   * 👤 Tychique
   * 👤 Wasfade
 
----
 
-## ⚙️ Flux de Travail Git (Workflow)
-
-Pour éviter les conflits de code, chaque groupe travaille sur une branche dédiée avant de fusionner sur la branche principale `main` via une **Pull Request** :
-* Branche Header : `feature-header`
-* Branche Main/Body : `feature-main`
-* Branche Footer : `feature-footer`
